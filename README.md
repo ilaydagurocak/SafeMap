@@ -44,36 +44,7 @@ SafeMap’in vizyonu, şehirler için **dijital bir güvenlik katmanı** oluştu
 ---
 
 ## 📱 Uygulama Ekran Görüntüleri
-
-### Giriş & Kayıt
-![Login](screenshots/login.png)
-![Register](screenshots/register.png)
-
-### Tanıtım & Ana Akış
-![Content](screenshots/content.png)
-![Main View](screenshots/mainview.png)
-
-### Menü & Yorumlar
-![Menu](screenshots/menu.png)
-![Comments](screenshots/comments.png)
-
-### Kullanıcı Raporları
-![User Reports](screenshots/userreports.png)
-
-### Profil & Ayarlar
-![Edit Profile](screenshots/edit.profile.png)
-![Trusted Contacts](screenshots/trustedcontacts.png)
-![Location Settings](screenshots/locationsettings.png)
-
-### Bildirim & Dil Ayarları
-![Notification Settings](screenshots/notificationsettings.png)
-![Change Language](screenshots/changelanguage.png)
-
-### Hakkında & Geri Bildirim
-![About](screenshots/aboutsafemap.png)
-![Feedback](screenshots/feedback.png)
-
----
+SafeMap klasörü içerisindedir.
 
 ## 🧑‍💻 Teknik Altyapı
 
