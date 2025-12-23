@@ -55,7 +55,7 @@ SafeMap klasörü içerisindedir.
 - **MapKit / Apple Maps**
 - **MVVM mimarisi**
 - **TestFlight** dağıtımı
-- Şuan swift ile hazır bulunan uygulama kotlin ile android için yapılacaktır.
+- Şuan swift ile hazır halde bulunan uygulama kotlin ile android için yapılacaktır.
 
 ---
 
