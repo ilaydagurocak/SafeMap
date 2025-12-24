@@ -73,7 +73,8 @@ SafeMap klasörü içerisindedir.
 Bu proje sosyal fayda ve kullanıcı güvenliği odağında geliştirilmektedir.  
 Geri bildirimler, katkılar ve iş birlikleri memnuniyetle karşılanır.
 
-📩 İletişim: **[illaydagurocak@icloud.com]**  
+📩 İletişim: **[illaydagurocak@icloud.com]**
+             **[acar144harun@gmail.com]**
 🌐 Proje: **SafeMap**
 
 ---
